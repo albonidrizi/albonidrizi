@@ -1,16 +1,6 @@
 # 💫 About Me:
-😎 I am Software Engineer with a passion for Science and Human Behavior.<br>📫 Shoot me an <a href="https://github.com/albonidrizi/">Email</a> or add me on <a href="https://github.com/albonidrizi/">LinkedIn</a> :)
+😎 I am Software Engineer with a passion for Science and Human Behavior.<br>📫 Shoot me an <a href="mailto:albonidrizi@gmail.com">Email</a> or add me on <a href="https://www.linkedin.com/in/albonidrizi//">LinkedIn</a> :)
 
-<ul class="social-media-list">
-                  
-                  <li><a href="https://www.linkedin.com/in/albon-idrizi-b9a049176/"><img src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="Linkedin" title="Linkedin"></a></li>
-                  <li><a href="https://github.com/albonidrizi"><img src="https://unpkg.com/simple-icons@latest/icons/github.svg" alt="GitHub" title="GitHub"></a></li>
-                  <li><a href="mailto:albonidrizi@gmail.com"><img src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" alt="Gmail" title="Gmail"></a></li>
-                  <li><a href="https://www.facebook.com/albon.idrizi/"><img src="https://unpkg.com/simple-icons@7.3.0/icons/facebook.svg" alt="Facebook" title="Facebook"></a></li>
-                  <li><a href="https://www.instagram.com/albon_i/"><img src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" alt="Instagram" title="Instagram"></a></li>
-                  <li><a href="https://wa.me/+38971452204"><img src="https://unpkg.com/simple-icons@latest/icons/whatsapp.svg" alt="Whatsapp" title="Whatsapp"></a></li>
-                  <li><a href="tel:+38971452204"><img src="https://unpkg.com/simple-icons@latest/icons/tmobile.svg" alt="PhoneNumber" title="Phone Number"></a></li>
-                 </ul>
 
 
 ## 🌐 Socials:
