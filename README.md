@@ -1,5 +1,10 @@
 # 💫 About Me:
-😎 I am Software Engineer with a passion for Science.<br>📫 Shoot me an <a href="mailto:albonidrizi@gmail.com">Email</a> or add me on <a href="https://www.linkedin.com/in/albonidrizi/">LinkedIn</a> :)
+
+Hi there! 👋<br>
+
+I'm Albon Idrizi, a passionate Software Engineer with a focus on Java, Spring Boot, and JavaScript/React.js. I enjoy building scalable and efficient web applications, and I love exploring new technologies and frameworks.
+
+<br>📫 Shoot me an <a href="mailto:albonidrizi@gmail.com">Email</a> or add me on <a href="https://www.linkedin.com/in/albonidrizi/">LinkedIn</a> :)
 
 
 
