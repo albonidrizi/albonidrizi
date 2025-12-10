@@ -1,16 +1,29 @@
-## Hi there 👋
+**Full-Stack Engineer** • Oracle Certified Java Developer • Spring Boot Specialist
 
-<!--
-**albonidrizi/albonidrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable, high-performance systems with **Java, Spring Boot, React, Microservices, and Cloud technologies**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- **Backend Development:** Enterprise-grade REST APIs, microservices architecture, event-driven systems
+- **Frontend Development:** Modern, responsive web applications with React.js and TypeScript
+- **Performance Optimization:** Database query tuning, caching strategies, high-concurrency handling
+- **DevOps & Automation:** CI/CD pipelines, Docker, Kubernetes, containerized deployments
+- **Technical Mentoring:** Training developers in Spring Boot and backend best practices
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|:--- |:--- |
+| **Backend** | Java 11/17 (OCP) • Spring Boot • Spring Security • Hibernate • JPA |
+| **Frontend** | React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 |
+| **Messaging** | Kafka • RabbitMQ |
+| **DevOps** | Docker • Kubernetes • Jenkins • GitHub Actions • Maven |
+| **Cloud** | AWS • Microservices Architecture |
+| **Databases** | MySQL • PostgreSQL • Query Optimization |
+| **Testing** | JUnit • TestContainers • TDD • Jest |
+
+---
